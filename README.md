@@ -9,7 +9,7 @@ SKN03-3nd-3Team : **5️⃣❎5️⃣**
 |:--:|:--:|:--:|:--:|:--:|
 | @ | @ | @ | @ | @ |
 |  |  |  |  |  |
-| Project Leader |  |  |  |  |
+| Project Leader | Web | Modeling | Data Analysis | Data Analysis |
 
 <br/><br/><br/>
 
