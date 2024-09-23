@@ -1,5 +1,5 @@
 ### 📌 모델링 시퀀스 (Using XGBoostClassifier)
-![image](https://github.com/user-attachments/assets/2f4f8cbf-9978-47ab-8502-825ce5bdfa0f)
+![image](https://github.com/user-attachments/assets/7718d464-12dd-4275-9f6f-74ab4d5c546d)
 
 <br/><br/>
 
