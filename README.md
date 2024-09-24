@@ -38,28 +38,8 @@ Telecom Customer Churn Prediction (Kaggle)
 > 7,043 rows
 > 
 > 21 columns
->
-> - customerID : 소비자의 식별자
-- gender : 성별
-- SeniorCitizen : 노인인지의 여부
-- Partner : 배우자의 유무
-- Dependents : 자녀의 유무
-- tenure : 고객의 가입 기간 (개월 수)
-- PhoneService : 휴대폰 서비스를 가입 했는지의 여부
-- MultipleLines : 여러 개의 통신선을 서비스 받고 있는지의 여부 (Yes, No, No phone service) / 휴대폰 서비스를 가입한 고객만 해당됨.
-- InternetService : 인터넷 서비스 제공자 (DSL, Fiber optic, No)
-- OnlineSecurity : 온라인 보안 서비스를 가입 했는지의 여부 (Yes, No, No internet service) / 인터넷 서비스를 가입한 고객만 해당됨.
-- OnlineBackup : 온라인 백업 서비스를 가입 했는지의 여부 (Yes, No, No internet service) / 인터넷 서비스를 가입한 고객만 해당됨.
--DeviceProtection 기기 보호 서비스를 가입 했는지의 여부 (Yes, No, No internet service) / 인터넷 서비스를 가입한 고객만 해당됨.
-- TechSupport : 기술 서포트 서비스를 가입 했는지의 여부 (Yes, No, No internet service) / 인터넷 서비스를 가입한 고객만 해당됨.
-- StreamingTV : TV 스트리밍 서비스를 가입 했는지의 여부 (Yes, No, No internet service) / 인터넷 서비스를 가입한 고객만 해당됨.
-- StreamingMovies : 영화 스트리밍 서비스를 가입 했는지의 여부 (Yes, No, No internet service) / 인터넷 서비스를 가입한 고객만 해당됨.
-- Contract : 계약 유형 (Month-to-month, One year, Two year)
-- PaperlessBilling : 전자 고지서 여부
-- PaymentMethod : 요금 지불 방법 (Electronic check, Mailed check, Bank transfer (automatic), Credit card (automatic))
-- MonthlyCharges : 매달 고객에게 청구되는 금액
-- TotalCharges : 고객에게 청구된 총 금액
-- Churn : 지난 한 달 내에 떠난 고객인지의 여부
+![image](https://github.com/user-attachments/assets/98b320fd-580f-49c8-a1f8-9786c23f41dd)
+
 
 <br/><br/>
 
