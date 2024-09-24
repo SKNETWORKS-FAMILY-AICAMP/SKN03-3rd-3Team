@@ -62,6 +62,9 @@ Telecom Customer Churn Prediction (Kaggle)
 
 <br/><br/>
 
+### 📌 중요 컬럼 이탈률 시각화
+
+
 ### 📌 프로젝트 결과 
 
 👉🏻 
