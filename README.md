@@ -59,6 +59,20 @@ Telecom Customer Churn Prediction (Kaggle)
 
 <br/><br/>
 
+## 📌 STACKS
+  <div align=center> 
+    <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+    <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+    <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> 
+    <img src="https://img.shields.io/badge/django-092E20?style=for-the-badge&logo=django&logoColor=white">
+    <img src="https://img.shields.io/badge/Numypy-013243?style=for-the-badge&logo=numpy&logoColor=white">
+    <img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=numpy&logoColor=white">
+    <img src="https://img.shields.io/badge/scikitlearn-F7931E?style=for-the-badge&logo=numpy&logoColor=white">
+  </div>  
+  
+  <br>
+
+
 ### 📌 사이트 플로우차트
 ![image](https://github.com/user-attachments/assets/528bb3d9-1f2e-4d8d-9aaa-3faaafe5ec84)
 
