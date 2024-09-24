@@ -58,6 +58,7 @@ Telecom Customer Churn Prediction (Kaggle)
 <br/><br/>
 
 ### 📌 사이트 플로우차트
+![image](https://github.com/user-attachments/assets/528bb3d9-1f2e-4d8d-9aaa-3faaafe5ec84)
 
 <br/><br/>
 
