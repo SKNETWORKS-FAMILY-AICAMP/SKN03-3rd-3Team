@@ -66,43 +66,28 @@ Telecom Customer Churn Prediction (Kaggle)
 
 ### 📌 중요 컬럼 이탈률 시각화
 **① 인터넷 서비스별** 
-<div style="text-align: center;">
-    <img src="https://github.com/user-attachments/assets/c3494d63-cb95-44fe-911d-f70480833d54" alt="Graph 1" width="300">
-    <img src="https://github.com/user-attachments/assets/727b75d2-782d-41f4-a904-c41ba51a6051" alt="Graph 2" width="300">
-</div>
-<br/>
+<img sr="https://github.com/user-attachments/assets/c3494d63-cb95-44fe-911d-f70480833d54" alt="Graph 1" width="300">
+<img src="https://github.com/user-attachments/assets/727b75d2-782d-41f4-a904-c41ba51a6051" alt="Graph 2" width="300">
+
 **② 기술 지원 여부** 
-<div style="text-align: center;">
-    <img src="https://github.com/user-attachments/assets/47af6e13-55c5-4c41-88c7-39376f07e968" alt="Graph 1" width="300">
-    <img src="https://github.com/user-attachments/assets/a5617442-e8c1-4b54-9586-ac85c82932ae" alt="Graph 2" width="300">
-</div>
-<br/>
+<img src="https://github.com/user-attachments/assets/47af6e13-55c5-4c41-88c7-39376f07e968" alt="Graph 1" width="300">
+<img src="https://github.com/user-attachments/assets/a5617442-e8c1-4b54-9586-ac85c82932ae" alt="Graph 2" width="300">
+
 **③ 결제방법** 
-<div style="text-align: center;">
-    <img src="https://github.com/user-attachments/assets/b333cef9-8997-45b6-8d17-b76f2674f853" alt="Graph 1" width="300">
-    <img src="https://github.com/user-attachments/assets/a4924614-ce46-44c3-ac9b-499410a61f39" alt="Graph 2" width="300">
-</div>
-<br/>
+<img src="https://github.com/user-attachments/assets/b333cef9-8997-45b6-8d17-b76f2674f853" alt="Graph 1" width="300">
+<img src="https://github.com/user-attachments/assets/a4924614-ce46-44c3-ac9b-499410a61f39" alt="Graph 2" width="300">
 
 **④ 페이퍼리스 청구 여부** 
-<div style="text-align: center;">
-    <img src="https://github.com/user-attachments/assets/62ab620f-b2b3-4b87-974d-c44dc7bd40e1" alt="Graph 1" width="300">
-    <img src="https://github.com/user-attachments/assets/ac978f64-da6d-42db-9917-1c177d9fc3a3" alt="Graph 2" width="300">
-</div>
-<br/>
-**⑤ 온라인 백업 여부** 
-<div style="text-align: center;">
-    <img src="https://github.com/user-attachments/assets/782d7b18-7f18-4687-85bb-e251f0bd86c0" alt="Graph 1" width="300">
-    <img src="https://github.com/user-attachments/assets/2053ba9b-40f9-4263-b85a-778bba55dd1c" alt="Graph 2" width="300">
-</div>
-<br/>
-**⑥ 계약 유형별** 
-<div style="text-align: center;">
-    <img src="https://github.com/user-attachments/assets/675ed00d-96df-43e5-82f5-0e91ba420e45" alt="Graph 1" width="300">
-    <img src="https://github.com/user-attachments/assets/79792b10-97ab-497e-af59-0c93535f8927" alt="Graph 2" width="300">
-</div>
-<br/><br/>
+<img src="https://github.com/user-attachments/assets/62ab620f-b2b3-4b87-974d-c44dc7bd40e1" alt="Graph 1" width="300">
+<img src="https://github.com/user-attachments/assets/ac978f64-da6d-42db-9917-1c177d9fc3a3" alt="Graph 2" width="300">
 
+**⑤ 온라인 백업 여부** 
+<img src="https://github.com/user-attachments/assets/782d7b18-7f18-4687-85bb-e251f0bd86c0" alt="Graph 1" width="300">
+<img src="https://github.com/user-attachments/assets/2053ba9b-40f9-4263-b85a-778bba55dd1c" alt="Graph 2" width="300">
+
+**⑥ 계약 유형별** 
+<img src="https://github.com/user-attachments/assets/675ed00d-96df-43e5-82f5-0e91ba420e45" alt="Graph 1" width="300">
+<img src="https://github.com/user-attachments/assets/79792b10-97ab-497e-af59-0c93535f8927" alt="Graph 2" width="300">
 
 <br/><br/>
 
