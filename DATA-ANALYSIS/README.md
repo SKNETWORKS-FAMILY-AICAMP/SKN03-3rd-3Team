@@ -12,8 +12,8 @@
 
 
 
- # Grid search
- 1. InternetService ,OnlineSecurity, TechSupport, PaymentMethod, PaperlessBilling 해당 5개의 컬럼에 대해서 모델에서 이탈률을 0(No) 이라고 예측하는 파라미터값 찾기
+ ### 📌 Grid search
+ 1. InternetService ,OnlineSecurity, TechSupport, PaymentMethod, PaperlessBilling 해당 5개의 컬럼에 대해서 모델에서 이탈률을 0 (No) 이라고 예측하는 파라미터값 찾기
  2. 다수의 조합 중 서비스를 가입하는 방향으로 최적의 솔루션 정하기
  3. 이 중 charges에 대해 영향을 끼치는 컬럼들의 기존값과 솔루션값의 평균의 차이만큼 charges에 반영하기
  4. 다시 모델에 넣고 이탈률 0(No) 확인하면 최종 솔루션으로 제공
