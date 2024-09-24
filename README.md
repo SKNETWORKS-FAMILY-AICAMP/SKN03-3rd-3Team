@@ -65,36 +65,31 @@ Telecom Customer Churn Prediction (Kaggle)
 <br/><br/>
 
 ### 📌 중요 컬럼 이탈률 시각화
+## ① Internet Service
+|![인터넷 서비스별 이탈율](https://github.com/user-attachments/assets/243e36c1-e4e2-469a-9aff-c7d3fc352312)|![인터넷 서비스별 잔존율](https://github.com/user-attachments/assets/a51b030e-d7b5-4079-86e2-89b66c2ea2b8)|
+|:--|:--|
 
-## ① 인터넷 서비스별
-![인터넷 서비스별](https://github.com/user-attachments/assets/c3494d63-cb95-44fe-911d-f70480833d54)
+## ② TechSupport
+|![기술지원여부에따른 이탈율](https://github.com/user-attachments/assets/59fca8d4-1022-4ac4-9843-91d90184fd03)|![기술지원여부에 따른 잔존율](https://github.com/user-attachments/assets/70a284f2-b06b-4e36-84cf-515857ff38d2)|
+|:--|:--|
 
-![인터넷 서비스별 2](https://github.com/user-attachments/assets/727b75d2-782d-41f4-a904-c41ba51a6051)
+## ③ PaymentMethod
+|![결제방법에 따른 이탈율](https://github.com/user-attachments/assets/d002cc93-ad72-4720-adc7-7f5c300f9629)|![결제방법에 따른 잔존율](https://github.com/user-attachments/assets/79c43834-54b1-4d3a-aa23-66c89295a7ec)|
+|:--|:--|
 
-## ② 기술 지원 여부
-![기술 지원 여부 1](https://github.com/user-attachments/assets/47af6e13-55c5-4c41-88c7-39376f07e968)
+## ④ PaperlessBilling
+|![페이퍼리스 청구방식에 따른 이탈율](https://github.com/user-attachments/assets/4304851e-a882-45f2-bb13-c774c47af66e)|![페이퍼리스 청구방식에 따른 잔존율](https://github.com/user-attachments/assets/0308b8bd-933d-4694-a5e9-eb6cd8be3f6f)|
+|:--|:--|
 
-![기술 지원 여부 2](https://github.com/user-attachments/assets/a5617442-e8c1-4b54-9586-ac85c82932ae)
+## ⑤ OnlineBackup
+|![온라인 백업 여부에 따른 이탈율](https://github.com/user-attachments/assets/2897fc0b-d54e-49cf-bd27-3d943b46cf44)|![온라인 백업 여부에 따른 잔존율](https://github.com/user-attachments/assets/13eb0cf0-aec6-4b37-9f7d-cf0f3eb86269)|
+|:--|:--|
 
-## ③ 결제방법
-![결제 방법 1](https://github.com/user-attachments/assets/b333cef9-8997-45b6-8d17-b76f2674f853)
+## ⑥ Contract
+|![계약 유형별 이탈율](https://github.com/user-attachments/assets/b8d0feb9-b9d9-4843-8008-37419ef50b9d)|![계약 유형별 잔존율](https://github.com/user-attachments/assets/96f48730-0850-4e39-9090-52d270395ef4)|
+|:--|:--|
 
-![결제 방법 2](https://github.com/user-attachments/assets/a4924614-ce46-44c3-ac9b-499410a61f39)
 
-## ④ 페이퍼리스 청구 여부
-![페이퍼리스 청구 여부 1](https://github.com/user-attachments/assets/62ab620f-b2b3-4b87-974d-c44dc7bd40e1)
-
-![페이퍼리스 청구 여부 2](https://github.com/user-attachments/assets/ac978f64-da6d-42db-9917-1c177d9fc3a3)
-
-## ⑤ 온라인 백업 여부
-![온라인 백업 여부 1](https://github.com/user-attachments/assets/782d7b18-7f18-4687-85bb-e251f0bd86c0)
-
-![온라인 백업 여부 2](https://github.com/user-attachments/assets/2053ba9b-40f9-4263-b85a-778bba55dd1c)
-
-## ⑥ 계약 유형별
-![계약 유형별 1](https://github.com/user-attachments/assets/675ed00d-96df-43e5-82f5-0e91ba420e45)
-
-![계약 유형별 2](https://github.com/user-attachments/assets/79792b10-97ab-497e-af59-0c93535f8927)
 
 
 <br/><br/>
