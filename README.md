@@ -66,12 +66,12 @@ Telecom Customer Churn Prediction (Kaggle)
 
 ### 📌 중요 컬럼 이탈률 시각화
 **① 인터넷 서비스별** 
-<img sr="https://github.com/user-attachments/assets/c3494d63-cb95-44fe-911d-f70480833d54" alt="Graph 1" width="300">
-<img src="https://github.com/user-attachments/assets/727b75d2-782d-41f4-a904-c41ba51a6051" alt="Graph 2" width="300">
+![image](https://github.com/user-attachments/assets/c3494d63-cb95-44fe-911d-f70480833d54" alt="Graph 1" width="300")
+![image](https://github.com/user-attachments/assets/727b75d2-782d-41f4-a904-c41ba51a6051" alt="Graph 2" width="300")
 
 **② 기술 지원 여부** 
-<img src="https://github.com/user-attachments/assets/47af6e13-55c5-4c41-88c7-39376f07e968" alt="Graph 1" width="300">
-<img src="https://github.com/user-attachments/assets/a5617442-e8c1-4b54-9586-ac85c82932ae" alt="Graph 2" width="300">
+![image](https://github.com/user-attachments/assets/47af6e13-55c5-4c41-88c7-39376f07e968" alt="Graph 1" width="300")
+![image](https://github.com/user-attachments/assets/a5617442-e8c1-4b54-9586-ac85c82932ae" alt="Graph 2" width="300")
 
 **③ 결제방법** 
 <img src="https://github.com/user-attachments/assets/b333cef9-8997-45b6-8d17-b76f2674f853" alt="Graph 1" width="300">
