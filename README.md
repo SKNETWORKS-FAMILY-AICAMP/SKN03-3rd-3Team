@@ -78,7 +78,7 @@ Telecom Customer Churn Prediction (Kaggle)
 
 <br/><br/>
 
-### 📌 중요 컬럼 이탈률 시각화
+### 📌 주요 컬럼 이탈률 시각화
 ## ① Internet Service
 |![인터넷 서비스별 이탈율](https://github.com/user-attachments/assets/243e36c1-e4e2-469a-9aff-c7d3fc352312)|![인터넷 서비스별 잔존율](https://github.com/user-attachments/assets/a51b030e-d7b5-4079-86e2-89b66c2ea2b8)|
 |:--|:--|
