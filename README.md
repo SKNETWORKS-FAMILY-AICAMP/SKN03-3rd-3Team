@@ -8,7 +8,7 @@ SKN03-3nd-3Team : **5️⃣❎5️⃣**
 | 박종명 | 박용주 | 서민정 | 이주원 | 하은진 |
 |:--:|:--:|:--:|:--:|:--:|
 |![Group 11](https://github.com/user-attachments/assets/17bf149f-471e-4c95-80a1-66effa211bf9)|![Group 12](https://github.com/user-attachments/assets/e7217b02-c9f8-4bc9-ae2d-0a31c5f75349)|![image 23](https://github.com/user-attachments/assets/7dea616b-7a83-4cba-b6ef-f29fd597a440)|![Group 10](https://github.com/user-attachments/assets/e0e30c18-d852-4e13-9122-938d8a2a9292)|![Group 13](https://github.com/user-attachments/assets/04e43b07-22c3-4f08-9d7b-79a0c8bef36d)|
-| @ | @ | @seom-j | @ | @ha000jin |
+| @devjm99 | @yongjoo0329 | @seom-j | @Leejoowon123 | @ha000jin |
 | Project Leader | Web | Modeling | Data Analysis | Data Analysis |
 
 
@@ -119,9 +119,38 @@ Telecom Customer Churn Prediction (Kaggle)
 
 ### 📌 프로젝트 에러 로그
 
+1. 함수 간 연결이 원활하지 않은 문제
+토글 기능에서 선택한 버튼에 대한 데이터가 제대로 업데이트되지 않거나, 다른 함수 호출과 충돌이 발생함.
+선택한 값이 콘솔에 제대로 출력되지 않음.
+해결 과정:
+각 버튼이 클릭될 때 올바른 데이터를 넘기도록 toggleBtn 함수 내에서 이벤트 리스너를 수정.
+데이터 라벨링을 처리하는 labelMap과 데이터 객체 data 사이의 연결을 명확히 하여 값이 제대로 매핑되도록 수정.
+
+
+2. 기능이 제대로 작동하지 않는 문제:
+모델 선택 기능에서 클릭 시 모델이 선택된 것처럼 보였지만, 데이터가 저장되지 않음.
+인터넷 서비스 옵션을 선택하면, 추가 입력 양식이 표시되지 않음.
+해결 과정:
+선택한 모델을 기록하는 함수(selectModel)의 동작을 확인하고, 데이터 객체에 선택된 모델 정보를 저장하도록 수정. 토글 기능에서 버튼이 클릭될 때 올바르게 값을 매핑하고 숨겨진 데이터를 표시하도록 로직을 수정.
+
+
+3. 함수 연결 오류로 인한 토글 기능 상실
+한 번의 수정 후 모든 토글 버튼이 제대로 동작하지 않음.
+여러 개의 버튼을 클릭할 경우, 선택된 값이 데이터 객체에 반영되지 않음.
+해결 과정:
+toggleBtn 함수에서 각 카테고리에 맞는 값을 labelMap과 data 객체에 올바르게 전달하는 로직을 수정.
+각 버튼 클릭 시 이전 선택된 버튼의 스타일을 해제하고 새로 선택된 버튼에 스타일을 적용하도록 로직 추가.
+toggleBtn의 if 조건을 재정비하여 UI가 동작하게 함.
+
+
+4. 그래프가 서로 겹쳐보이는 문제
+차트.js로 그린 그래프들이 화면에 중첩되어 보임.
+차트가 지워지지 않고 새 그래프가 추가로 그려지는 현상.
+해결 과정:
+차트를 그리기 전에 기존의 차트를 삭제하는 코드를 추가.
+destroy() 메서드를 사용하여 기존에 그려진 차트를 삭제한 후 새로운 차트를 생성하도록 수정.
 
 <br/><br/>
 
-### 📌 프로젝트 후기
 
 
