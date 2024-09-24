@@ -38,6 +38,7 @@ Telecom Customer Churn Prediction (Kaggle)
 > 7,043 rows
 > 
 > 21 columns
+
 ![image](https://github.com/user-attachments/assets/98b320fd-580f-49c8-a1f8-9786c23f41dd)
 
 
@@ -64,49 +65,9 @@ Telecom Customer Churn Prediction (Kaggle)
 <br/><br/>
 
 ### 📌 중요 컬럼 이탈률 시각화
-**① 인터넷 서비스별** 
-<div style="text-align: center;">
-    <img src="https://github.com/user-attachments/assets/c3494d63-cb95-44fe-911d-f70480833d54" alt="Graph 1" width="300">
-    <img src="https://github.com/user-attachments/assets/727b75d2-782d-41f4-a904-c41ba51a6051" alt="Graph 2" width="300">
-</div>
-<br/>
 
-**② 기술 지원 여부** 
-<div style="text-align: center;">
-    <img src="https://github.com/user-attachments/assets/47af6e13-55c5-4c41-88c7-39376f07e968" alt="Graph 1" width="300">
-    <img src="https://github.com/user-attachments/assets/a5617442-e8c1-4b54-9586-ac85c82932ae" alt="Graph 2" width="300">
-</div>
-<br/>
 
-**③ 결제방법** 
-<div style="text-align: center;">
-    <img src="https://github.com/user-attachments/assets/b333cef9-8997-45b6-8d17-b76f2674f853" alt="Graph 1" width="300">
-    <img src="https://github.com/user-attachments/assets/a4924614-ce46-44c3-ac9b-499410a61f39" alt="Graph 2" width="300">
-</div>
-<br/>
-
-**④ 페이퍼리스 청구 여부** 
-<div style="text-align: center;">
-    <img src="https://github.com/user-attachments/assets/62ab620f-b2b3-4b87-974d-c44dc7bd40e1" alt="Graph 1" width="300">
-    <img src="https://github.com/user-attachments/assets/ac978f64-da6d-42db-9917-1c177d9fc3a3" alt="Graph 2" width="300">
-</div>
-<br/>
-
-**⑤ 온라인 백업 여부** 
-<div style="text-align: center;">
-    <img src="https://github.com/user-attachments/assets/782d7b18-7f18-4687-85bb-e251f0bd86c0" alt="Graph 1" width="300">
-    <img src="https://github.com/user-attachments/assets/2053ba9b-40f9-4263-b85a-778bba55dd1c" alt="Graph 2" width="300">
-</div>
-<br/>
-
-**⑥ 계약 유형별** 
-<div style="text-align: center;">
-    <img src="https://github.com/user-attachments/assets/675ed00d-96df-43e5-82f5-0e91ba420e45" alt="Graph 1" width="300">
-    <img src="https://github.com/user-attachments/assets/79792b10-97ab-497e-af59-0c93535f8927" alt="Graph 2" width="300">
-</div>
 <br/><br/>
-
-
 
 ### 📌 프로젝트 결과 
 
@@ -116,15 +77,23 @@ Telecom Customer Churn Prediction (Kaggle)
 
 ### 📌 EDA
 총 21개의 컬럼 중 17개의 범주형 데이터를 가지고 있는 데이터셋이다. 
-분석 결과 사용자의 개인정보 중 이탈여부와 연관된 데이터를 가진 컬럼은 
-Partner와 Dependents일 것으로 예상하여 해당 여부에 따라 달리 학습하여 5개의 모델을 생성하였다.
-이탈여부와 일정 이상의 상관관계를 보이는 컬럼 10개를 분석한 결과,
+사용자의 개인정보 중 이탈여부와 연관된 데이터를 가진 컬럼은 Partner와 Dependents일 것으로 예상하여 해당 여부에 따라 달리 학습하여 5개의 모델을 생성하였다.
+
+이탈여부와 일정 이상의 상관관계를 보이는 컬럼 10개
 (InternetService, Contract, PaymentMethod, PaperlessBilling, 
 OnlineSecurity, OnlineBackup, DeviceProtection,TechSupport, StreamingTV, StreamingMovies)
-7개의 컬럼이 변수에 따라 이탈률의 차이를 보여 이분형 로지스틱 회귀를 활용해 상관계수를 확인해보았다.
-결과, 높은 상관계수를 가지는 컬럼을 이탈률의 요인이라 판단하여 그리드서치 알고리즘에 적용하였다.
-(InternetService ,OnlineSecurity, TechSupport, PaymentMethod, PaperlessBilling)
 
+7개의 컬럼이 변수에 따라 이탈률의 차이를 보여 이분형 로지스틱 회귀를 활용해 상관계수를 확인해보았다. 높은 상관계수를 가지는 컬럼을 이탈률의 요인이라 판단하여 그리드서치 알고리즘에 적용하였다.
+(InternetService ,OnlineSecurity, TechSupport, PaymentMethod, PaperlessBilling)
+![image](https://github.com/user-attachments/assets/76ae21db-6af1-465a-aa44-f3d2ce109cee)
+
+
+<br/><br/>
+
+### 📌 모델링
+
+
+<br/><br/>
 
 ### 📌 프로젝트 에러 로그
 
