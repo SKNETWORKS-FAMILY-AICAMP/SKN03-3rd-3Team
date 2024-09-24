@@ -61,4 +61,4 @@ Ex) Yes는 1로, No는 0으로 변환.
 기술 스택
 HTML5
 CSS3
-JavaScript (DOM 조작 및 이벤트 핸들링)
+JavaScript
