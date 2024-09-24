@@ -8,10 +8,12 @@ SKN03-3nd-3Team : **5️⃣❎5️⃣**
 | 박종명 | 박용주 | 서민정 | 이주원 | 하은진 |
 |:--:|:--:|:--:|:--:|:--:|
 | @ | @ | @ | @ | @ |
-|  |  |  |  |  |
+|![Group 11](https://github.com/user-attachments/assets/17bf149f-471e-4c95-80a1-66effa211bf9)|![Group 12](https://github.com/user-attachments/assets/e7217b02-c9f8-4bc9-ae2d-0a31c5f75349)|![image 23](https://github.com/user-attachments/assets/7dea616b-7a83-4cba-b6ef-f29fd597a440)|![Group 10](https://github.com/user-attachments/assets/e0e30c18-d852-4e13-9122-938d8a2a9292)|![Group 13](https://github.com/user-attachments/assets/04e43b07-22c3-4f08-9d7b-79a0c8bef36d)|
 | Project Leader | Web | Modeling | Data Analysis | Data Analysis |
 
+
 <br/><br/><br/>
+
 
 ## 5️⃣❎5️⃣
 ### 📌 개발 기간
